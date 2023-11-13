@@ -1,0 +1,323 @@
+.a1{
+    background-image: url("images/bougie.png");
+}
+
+  body {
+      margin: 0;
+      padding: 0;
+      
+  }
+  .body{
+    background: linear-gradient(0deg, rgba(219, 214, 201, 0.40) 0%, rgba(219, 214, 201, 0.40) 100%), #FFF;
+  }
+
+  /* Dimensions de l'écran */
+  .screen {
+      width: 1900px;
+      height: 100vh;
+      margin: 0 auto;
+  }
+
+  /* Plein écran avec une marge de 80px */
+  .full-screen {
+      width: 1740px;
+      margin: 0 80px;
+    
+  }
+
+  /* Contenu avec une largeur de 1140px et une marge de 380px à gauche et à droite */
+  .content {
+      width: 1140px;
+      margin: 0 380px;
+    
+  }
+
+  .bu{
+    display: inline-flex;
+        padding: 12px 25px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        border: 1px solid var(--Color-3, #BBA352);
+        width: 83px;
+        height: 44px;
+  }
+
+.q{
+    color: var(--Color-2, #56391F);
+        font-family: Playfair Display;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        /* 150% */
+}
+.p1{
+    color: #452E18;
+    
+        /* p */
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 166.667% */
+}
+.p2{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 125% */
+}
+.h1{
+    color: var(--Color-2, #56391F);
+    
+        /* H2 */
+        font-family: Playfair Display;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 45px;
+        /* 128.571% */
+}
+.b2{
+    display: inline-flex;
+        padding: 12px 25px;
+        align-items: flex-start;
+        gap: 10px;
+        background: var(--Color-3, #BBA352);
+        width: 172px;
+        height: 44px;
+}
+.l1{
+    color: var(--Blanc, #FFF);
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+d1.{
+    display: inline-flex;
+        padding: 10px;
+        justify-content: center;
+        align-items: center;
+      
+        background: var(--Color-3, #BBA352);
+        width: 109px;
+    
+}
+.description{
+    color: var(--Blanco, #FFF);
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 25px;
+        /* 156.25% */
+}
+.d2{
+    display: flex;
+        padding: 5px 10px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        background: rgba(219, 214, 201, 0.50);
+}
+.notes{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 156.25% */
+}
+.p3{
+color: #452E18;
+
+    /* p */
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    
+    /* 166.667% */
+}
+.d3{
+    width: 1170px;
+        height: 150px;
+        flex-shrink: 0;
+        
+}
+
+.h2{
+    color: var(--Color-2, #56391F);
+    
+        /* H2 */
+        font-family: Playfair Display;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 45px;
+        /* 128.571% */
+}
+.h3{
+    color: var(--Color-2, #56391F);
+        font-family: Playfair Display;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        /* 150% */
+}
+
+.p4{
+    color: var(--Color-2, #56391F);
+    
+        /* p */
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 166.667% */
+}
+.p5{
+    color: #452E18;
+    
+        /* p */
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 166.667% */
+        width: 297px;
+        height: 125px;
+}
+
+.h4{
+    color: var(--Color-2, #56391F);
+        font-family: Playfair Display;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        /* 150% */
+}
+
+.ul{
+    display: inline-flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+}
+.u{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+}
+
+.p6{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        /* 166.667% */
+        width: 120px;
+        height: 100px;
+}
+.logo{
+    width: 230.4px;
+        height: 15px;
+        flex-shrink: 0;
+}
+
+.p7{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 25px;
+        width: 160px;
+        /* 166.667% */
+}
+
+.mail{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: italic;
+        font-weight: 300;
+        line-height: 25px;
+        /* 166.667% */
+}
+.ok{
+    display: inline-flex;
+        padding: 3px 5px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        background: var(--Color-2, #56391F);
+}
+.OK{
+    color: #FFF;
+        font-family: Open Sans;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 15px;
+        /* 150% */
+}
+.cadre{
+    width: 250px;
+        height: 193px;
+        flex-shrink: 0;
+}
+
+.p8{
+    color: #FFF;
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+}
+
+.FR{
+color: var(--Color-2, #56391F);
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.EN{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+}
+#toggled-menu{
+    color: var(--Color-2, #56391F);
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+        letter-spacing: 0.36px;
+       
+}
